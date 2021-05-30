@@ -1,0 +1,7 @@
+a=input("Enter your name")
+b=int(input("Write your age"))
+c=float(input("Your marks"))
+print("Results")
+print(" Name is ",a)
+print(" age is ",b)
+print(" Marks is ",(int(c)))
