@@ -6,7 +6,7 @@ from PIL import Image,ImageTk #pip install Pillow
 
 def gotomain():
     rt.destroy()
-    import docmain
+    import nursemain
 
 rt=Tk()
 rt.title("Add Medicine")

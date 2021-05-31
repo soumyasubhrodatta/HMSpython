@@ -3,31 +3,22 @@ import mysql.connector
 from tkinter import ttk
 from tkinter import ttk,messagebox
 from PIL import Image,ImageTk #pip install Pillow
-
-
 rt=Tk()
 rt.title("Our Doctors")
 rt.geometry("1400x700+0+0")
-
 bg2=ImageTk.PhotoImage(file="11.jpg")
 frame=Label(rt,image=bg2)
 frame.place(x=0,y=0,width=1360,height=800)
-
 reg=Label(frame,text="Welcome to SSA Hospital",font=("Charlemagne Std",35,"bold"),fg="white",bg="dark blue")
 reg.place(x=230,y=00,width=900)
 reg1=Label(frame,text="OUR DOCTORS",font=("Charlemagne Std",25,"bold"),fg="white",bg="dark red")
 reg1.place(x=420,y=80,width=500)
-
 def gotomain():
     rt.destroy()
     import main
-
 b3 = Button(frame, text="Go to Home", command=gotomain, font=("Times New Roman", 15, "bold"), fg="white",bg="dark blue")
 b3.place(x=50, y=80)
-
 def getdata(event):
-
-
     mycursor.execute("select * from doctor")
     currow = medtab.focus()
     contents = medtab.item(currow)
@@ -72,8 +63,6 @@ def fectdata1():
        medtab.insert('',END,values=row)
     db.commit()
     db.close()
-
-
 detfrm=Frame(rt,bd=4,relief=RIDGE,bg="dark blue")
 detfrm.place(x=280,y=150,width=850,height=520)
 lsearch=Label(detfrm,text="Search By",font=("Times New Roman",20,"bold"),bg="light blue")
@@ -109,6 +98,5 @@ medtab.column("fees",width=100)
 medtab.column("visit",width=100)
 medtab.pack(fill=BOTH,expand=1)
 medtab.bind("<ButtonRelease-1>",getdata)
-
 fectdata()
 rt.mainloop()

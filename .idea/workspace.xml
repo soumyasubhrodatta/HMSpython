@@ -3,6 +3,62 @@
   <component name="ChangeListManager">
     <list default="true" id="a2966160-e050-416f-a359-5de5e4403516" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/10.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/11.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/111.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/12.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/22.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/3.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/665084331_640x360.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Hospital.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HospitalDB.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/addbg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/addmedicine.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/appointment.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bghome1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/database.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/doc.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/doclog.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/docmain.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/emergency.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gho.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/input.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/kh.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/large.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lbg.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/log.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/logbg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/logdoc.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/login.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/loginbg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/logincom.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/loginmain.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/logman.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lognurse.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/logo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/manager.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/managermain.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mypatient.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mypbg.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/nurse.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/nursemain.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/nurses.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ourdoc.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ourdocmanage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ourdocnurse.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/rbg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/register.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/register1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/registerbg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/small.jpg" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,11 +83,6 @@
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
   </component>
-  <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/addmedicine.py" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/register.py" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/ourdoc.py" root0="SKIP_INSPECTION" />
-  </component>
   <component name="ProjectId" id="1sUAU3WTul3oLGVarF8kEH7sqgQ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -42,7 +93,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/managermain.py" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/nursemain.py" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
@@ -50,7 +101,7 @@
       <recent name="G:\ProjectpT" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.main">
+  <component name="RunManager" selected="Python.managermain">
     <configuration name="addmedicine" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ProjectpT" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -127,6 +178,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/doc.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="docmain" type="PythonConfigurationType" factoryName="Python">
+      <module name="ProjectpT" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="G:\pythonProject1\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/docmain.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -303,6 +375,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="nursemain" type="PythonConfigurationType" factoryName="Python">
+      <module name="ProjectpT" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="G:\pythonProject1\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/nursemain.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="ourdoc" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="ProjectpT" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -377,6 +470,8 @@
       <item itemvalue="Python.ourdoc" />
       <item itemvalue="Python.logdoc" />
       <item itemvalue="Python.managermain" />
+      <item itemvalue="Python.docmain" />
+      <item itemvalue="Python.nursemain" />
       <item itemvalue="Python.addmedicine" />
       <item itemvalue="Python.doc" />
       <item itemvalue="Python.link" />
@@ -385,9 +480,9 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.doc" />
         <item itemvalue="Python.register" />
         <item itemvalue="Python.ourdocmanage" />
-        <item itemvalue="Python.doc" />
         <item itemvalue="Python.addmedicine" />
         <item itemvalue="Python.link" />
       </list>

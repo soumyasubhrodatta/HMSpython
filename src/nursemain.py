@@ -11,7 +11,7 @@ def reg_win():
     import register
 def addmed():
     rt.destroy()
-    import addmedicine
+    import nursemed
 def doc_win():
     rt.destroy()
     import ourdocnurse

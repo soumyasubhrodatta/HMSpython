@@ -138,28 +138,6 @@ def getdata(event):
     dis1.insert(0,row[4])
     sysm1.insert(0, row[5])
     pd2.insert(0, row[6])
-
-'''def delete1():
-    firstname = icd1.get()
-    db = mysql.connector.connect(host="localhost", user="root", password="Soumya123", database="hospital")
-    mycursor = db.cursor()
-    try:
-        sql = "delete from admission where itemcode=%s"
-        val = (firstname,)
-        mycursor.execute(sql, val)
-        db.commit()
-        messagebox.showinfo("information", "Record Deleted successfully")
-        icd1.delete(0, END)
-        inm1.delete(0, END)
-        unitp1.delete(0, END)
-        qty1.delete(0, END)
-        unit2.delete(0, END)
-        fectdata()
-        cleardata()
-    except EXCEPTION as e:
-        print(e)
-        db.rollback()
-        db.close()'''
 def fectdata1():
     ser1=comboser.get()
     lsearch1 = lsearch.get()

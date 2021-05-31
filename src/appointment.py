@@ -57,7 +57,7 @@ def Add():
         db.close()
 
 rt=Tk()
-rt.title("Register")
+rt.title("Admission")
 rt.geometry("1400x700+0+0")
 
 bg2=ImageTk.PhotoImage(file="logbg.jpg")
